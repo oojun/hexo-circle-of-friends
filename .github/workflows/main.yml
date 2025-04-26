@@ -33,7 +33,7 @@ env:
   TZ: Asia/Shanghai
 
 jobs:
-  build:
+  update-friends-posts:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
